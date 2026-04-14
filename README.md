@@ -64,7 +64,7 @@ cd audio-dsp
 ### 2. Install dependencies
 
 ```
-pip install numpy matplotlib librosa scipy sounddevice soundfile tk
+pip install numpy matplotlib librosa scipy sounddevice soundfile
 ```
 
 ---
@@ -96,13 +96,13 @@ python main.py
 
 1. Pitch = 12, Speed = 2x, Low gain = 2, Mid gain = 0, High gain = 2, Noise reduction:-
 
-![Waveform](example_output_images/waveform1.png)
-![Spectrogram](example_output_images/spectrogram1.png)
+![Waveform](example_output_images/waveform1.jpeg)
+![Spectrogram](example_output_images/spectrogram1.jpeg)
 
 2. Pitch = 0, Speed = 0.5x, Low gain = 0, Mid gain = 2, High gain = 0, Noise reduction, Echo effect:-
 
-![Waveform](example_output_images/waveform2.png)
-![Spectrogram](example_output_images/spectrogram2.png)
+![Waveform](example_output_images/waveform2.jpeg)
+![Spectrogram](example_output_images/spectrogram2.jpeg)
 
 ---
 
